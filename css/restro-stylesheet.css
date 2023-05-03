@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  position:fixed;
+  top:0;
+  z-index:10;
+}
+
+#location {
+  height:40px;
+  width: 130px;    
+  color:white;
+  background-color: rgba(34, 49, 52, 0.9);
+  margin-top: 10px;
+  font-size:15px;
+  font-family: "Lucida Grande";
+  text-align: center;
+}
+
+.header-left {
+  float: left;
+  padding-left:100px;
+  width:1200px;
+}
+
+a{
+  color:black;
+  margin-left: 50px;
+  position:relative;
+  bottom:50px;
+  text-decoration: none;
+    color:black;
+  }
+
+.icons a:hover{text-decoration: underline;}
+ 
+.icons2 a:hover{text-decoration: underline;}
+
+.header-right {
+  float: right;
+  background-color: rgba(255, 255, 255, 0.3);
+  transition: all 0.5s;
+}
+
+.header-right:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+}
+
+.login{
+  top:2px;
+  right:30px;
+}
+
+.content{
+  float:right;
+  size:20px;
+  margin:20px 20px 0 20px;
+
+}
+
+.content ul li{
+       width: 200px;
+    display: inline-block;
+    margin-left: 20px;
+    padding-top: 72px;
+        
+    }
+
+    .content ul li a{text-decoration: none;
+    color:black;
+    }
+
+
+.content ul li a:hover{text-decoration: underline;}
+
+.wrapper{
+  margin-top: 100px;
+}
+
+.icons img{
+  width:150px;
+  height:100px;
+  margin-left: 200px; 
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
+.icons2 img{
+  width:150px;
+  height:100px;
+  margin-left: 800px;
+  margin-bottom: 20px;
+}
+
+#col1{
+   margin-top: -820px;
+}
+
+#col2{
+  margin-top:-1525px;
+}
+
+#col3{
+  margin-top: -260px;
+}
+
+#col4{
+  margin-top:-395px;
+}
+
+#col5{
+  margin-top:-680px;
+}
+
+#col6{
+  margin-top:-960px;
+}
+
+#col7{
+  margin-top:-540px;
+}
+
+footer {
+  height:150px;
+  background-color: white;
+}
