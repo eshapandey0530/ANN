@@ -1,5 +1,6 @@
 # ANN
-ANN is an online table reservation tool where you may make a reservation for your dinner. It also assists restaurants in collaborating with various NGOs to reduce food waste and provide excess food to those in need. Customers can also collaborate with organizations (NGOs) by donating to them.
+
+ANN is an online platform for reserving tables at restaurants, while also facilitating their collaboration with NGOs to donate excess food to those in need. Customers can also donate to NGOs through the platform.
 
 There are 4 folders in this repo:
   1. html - contains the html files for the website
