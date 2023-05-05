@@ -10,7 +10,7 @@ There are 4 folders in this repo:
 
 
 **Home Page**  
-<img width="1000" alt="home" src="https://user-images.githubusercontent.com/46835432/236502227-6db05861-150f-47d4-a25a-176341bcfbfa.png">
+<img width="800" alt="home" src="https://user-images.githubusercontent.com/46835432/236502227-6db05861-150f-47d4-a25a-176341bcfbfa.png">
  
 **Login Page**
-<img width="1434" alt="login" src="https://user-images.githubusercontent.com/46835432/236501857-3eb96191-f296-4021-8f83-b4ea9a1334cc.png">
+<img width="800" alt="login" src="https://user-images.githubusercontent.com/46835432/236502458-dd6e7174-beff-461a-be70-38b56d61a3d3.png">
